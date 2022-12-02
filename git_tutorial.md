@@ -150,7 +150,7 @@
 	//切换上一分支（有点像linux的切换上一路径 cd -）
 	git checkout -
 ```
-2. 合并分支[快进分支](https://blog.csdn.net/zombres/article/details/82179122)
+2. 合并分支[快进分支参考](https://blog.csdn.net/zombres/article/details/82179122)
 ```
 	//切换到主干分支，主干分支的名字因版本有所区别
 	git checkout master/main
